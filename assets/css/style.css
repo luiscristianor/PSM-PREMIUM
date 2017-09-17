@@ -4,7 +4,7 @@
 Author: Bootstrapthemes
 Author URI: http://bootstrapthemes.co
 
-imagen de portada esta en la fila 648
+imagen de portada esta en la fila 650
 */
 /* ==========================================================================
    Author's custom styles
@@ -647,7 +647,7 @@ input::-ms-input-placeholder {
 
 /*home section*/
 .home{
-    background: url(../images/psmpremium3.png) no-repeat 100% 100%;
+    background: url(../images/homebg2.jpg) no-repeat 100% 100%;
     background-size: cover;
 }
 
