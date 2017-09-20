@@ -730,7 +730,7 @@ input::-ms-input-placeholder {
 
 }
 .service_tabe ul li a:hover{
-    background: url(../images/stabmenubghv.png) no-repeat top center;
+    background: url(../images/stabmenubghv.png) no-repeat top center; 
     color:#fff;
 }
 .service_tabe ul li a i{
