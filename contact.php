@@ -20,14 +20,14 @@ $mail_status = mail($mail_to, $subject, $body_message, $headers);
 if ($mail_status) { ?>
 	<script language="javascript" type="text/javascript">
 		alert('Gracias por su mensaje. Nosotros nos contactaremos en la brevedad.');
-		window.location = 'contact_page.html';
+		window.location = 'index.html';
 	</script>
 <?php
 }
 else { ?>
 	<script language="javascript" type="text/javascript">
 		alert('Mensaje fallido. Por favor, Enviar un correo al Administrador de Sistemas soporte@psmpremium.com');
-		window.location = 'contact_page.html';
+		window.location = 'index.html';
 	</script>
 <?php
 }
