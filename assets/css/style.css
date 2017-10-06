@@ -777,6 +777,7 @@ input::-ms-input-placeholder {
 .video{
     background: url(../images/brochuremod2.jpg) no-repeat top center;
     background-size:cover;
+   
 }
 .video .main_video{
     padding: 220px 0px 160px 0px;
