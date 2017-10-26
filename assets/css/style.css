@@ -89,7 +89,7 @@ a{
     /*    direction: rtl;*/
 }
 p {
-    margin: 0 0 5px;
+    margin: 0 0 15px;
 
 }
 
@@ -193,7 +193,7 @@ h6 {
 }
 p {
     line-height: 2rem;
-    font-size: 1rem;
+    font-size: 0.9rem;
 }
 p:last-child {
     margin-bottom: 0px;
@@ -715,7 +715,7 @@ input::-ms-input-placeholder {
     text-align: center;
     color: #444444;
     width: 250px;
-    height: 90px;
+    height: 180px;
     margin-left:20px;
     background: url(../images/stabmenubg.png) no-repeat top center;
     border:0px;
@@ -724,7 +724,7 @@ input::-ms-input-placeholder {
 .service_tabe_menu.nav-tabs>li.active>a:hover, .nav-tabs>li.active>a:focus{
     background: url(../images/stabmenubghv.png) no-repeat top center;
     width:250px;
-    height: 90px;
+    height: 180px;
     color:#fff;
 
 }
@@ -734,7 +734,7 @@ input::-ms-input-placeholder {
 }
 .service_tabe ul li a i{
     font-size:2rem;
-    margin-top:10px;
+    margin-top:40px;
     margin-bottom:25px;
 }
 
