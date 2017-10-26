@@ -194,7 +194,7 @@ h6 {
 }
 p {
     line-height: 5rem;
-    font-size: 0.875rem;
+    font-size: 15px;
 }
 p:last-child {
     margin-bottom: 0px;
